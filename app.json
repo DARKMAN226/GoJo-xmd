@@ -1,7 +1,7 @@
 {
   "name": "your GoJo-xmd",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dark-DEv",
-  "logo": "https://i.imgur.com/A0T9qCB.png",
+  "logo": "https://i.imgur.com/WzvAV6T.png",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.imgur.com/A0T9qCB.png"
+      "value": "https://i.imgur.com/WzvAV6T.png"
     }, 
     
     "ALIVE_MSG": {
