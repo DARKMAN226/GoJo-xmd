@@ -29,7 +29,7 @@
 ## 2. Session ID
 
 <p align="left">
-  <a href="gojo-session-2.onrender.com/" target="_blank">
+  <a href="gojo-session-2.onrender.com" target="_blank">
     <img alt="Pair Code" src="https://img.shields.io/badge/-Pair%20Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white" width="120" height="39" />
   </a>
 </p>
