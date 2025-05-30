@@ -2,7 +2,7 @@
 
 <!-- Logo du bot -->
 <p align="center">
-  <img src="https://i.imgur.com/A0T9qCB.png" alt="GoJo-xmd" width="300" />
+  <img src="https://i.imgur.com/WzvAV6T.png" alt="GoJo-xmd" width="300" />
 </p>
 
 <!-- Ligne GIF de séparation -->
