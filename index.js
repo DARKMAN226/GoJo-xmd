@@ -53,7 +53,7 @@ if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
     let megaUrlPart = '';
     let fullMegaUrl = '';
 
-    if (config.SESSION_ID.startsWith("GoJo-xmd~")) {
+    if (config.SESSION_ID.startsWith("GoJo-MD~")) {
       megaUrlPart = config.SESSION_ID.substring(10);
     } else if (config.SESSION_ID.startsWith("GoJo~")) {
       megaUrlPart = config.SESSION_ID.substring(5);
